@@ -50,7 +50,7 @@
                         <select class="form-control chosen-select" data-placeholder="Selecione a categoria pai...">
                             <option value=""></option>                         
                             <option value="Botswana">Calabreza</option>
-                            <option value="Bouvet Island">Cholate</option>
+                            <option value="Bouvet Island">Cholate quente</option>
                             <option value="Brazil">Frango</option>
 
                         </select>
