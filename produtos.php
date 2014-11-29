@@ -37,7 +37,7 @@
                         <select class="form-control chosen-select" data-placeholder="Selecione a categoria pai...">
                             <option value=""></option>                         
                             <option value="Botswana">Pizza G</option>
-                            <option value="Bouvet Island">Bebidas de gole</option>
+                            <option value="Bouvet Island">Bebidas Normal</option>
                             <option value="Brazil">Porções Grande</option>
 
                         </select>
