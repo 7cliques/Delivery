@@ -36,9 +36,9 @@
                     <div class="col-sm-5">
                         <select class="form-control chosen-select" data-placeholder="Selecione a categoria pai...">
                             <option value=""></option>                         
-                            <option value="Botswana">Pizza</option>
+                            <option value="Botswana">Pizza G</option>
                             <option value="Bouvet Island">Bebidas</option>
-                            <option value="Brazil">Porções</option>
+                            <option value="Brazil">Porções Grande</option>
 
                         </select>
                     </div>

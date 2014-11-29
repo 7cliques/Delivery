@@ -63,10 +63,10 @@
                             </ul>
                         </li>
 
-                    </ul>
+                    </ul> <!-- slkdjalk -->
 
 
-                </div><!-- leftpanelinner -->
+                </div><!-- leftpanelinner b-->
             </div><!-- leftpanel -->
 
             <div class="mainpanel">
