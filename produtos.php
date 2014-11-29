@@ -24,7 +24,7 @@
                 <a href="#" class="panel-close">&times;</a>
                 <a href="#" class="minimize">&minus;</a>
             </div>
-            <h4 class="panel-title">Produtos</h4>
+            <h4 class="panel-title">Produtos 111</h4>
             <!-- <p>B <code>.form-control</code> are set to width: 100%; by default. Wrap labels and controls in <code>.form-group</code> for optimum spacing.</p>-->
         </div>
         <div class="panel-body panel-body-nopadding">
